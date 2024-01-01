@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Cesur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **C#,React**
 
 - 📫 How to reach me **mehmetceesur@gmail.com**
 
